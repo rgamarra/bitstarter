@@ -1,6 +1,6 @@
 ["h1",
  ".navigation", ".logo",
-,".blank"
+".blank"
 ,".about"
 ,".heading"
 ,".subheading"
